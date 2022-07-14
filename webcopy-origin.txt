@@ -1,0 +1,148 @@
+Uri: http://centerblago.com.ua/model3.mp4
+File Name: C:\Downloaded Web Sites\innotech-splav.com\model3.mp4
+Content Type: video/mp4
+
+Uri: http://innotech-splav.com/
+File Name: C:\Downloaded Web Sites\innotech-splav.com\index.htm
+Content Type: text/html
+
+Uri: http://innotech-splav.com/page21394222.html
+File Name: C:\Downloaded Web Sites\innotech-splav.com\page21394222.html
+Content Type: text/html
+
+Uri: http://innotech-splav.com/tilda-blocks-2.14.css?t=1634553784
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: http://innotech-splav.com/tilda-blocks-2.14.css?t=1634553830
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tilda-blocks-2.14-1.css
+Content Type: text/css
+
+Uri: http://innotech-splav.com/tilda-blocks-2.7.js?t=1634553784
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tilda-blocks-2.7.js
+Content Type: application/javascript
+
+Uri: http://innotech-splav.com/tilda-blocks-2.7.js?t=1634553830
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tilda-blocks-2.7-1.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\innotech-splav.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\innotech-splav.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\innotech-splav.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\innotech-splav.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\innotech-splav.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\innotech-splav.com\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\innotech-splav.com\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\innotech-splav.com\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\innotech-splav.com\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menusub-1.0.min.css
+File Name: C:\Downloaded Web Sites\innotech-splav.com\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\innotech-splav.com\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\innotech-splav.com\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menusub-1.0.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\innotech-splav.com\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3062-3565-4136-b431-333661383133/-/resizeb/20x/_DSC1184.jpeg
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tild3062-3565-4136-b431-333661383133\-\resizeb\20x\_DSC1184.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3135-6137-4130-a164-656639336162/logo10.ico
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tild3135-6137-4130-a164-656639336162\logo10.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3363-3831-4261-b665-323438393830/-/resize/20x/292231.jpg
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tild3363-3831-4261-b665-323438393830\-\resize\20x\292231.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3434-6437-4432-b462-663866376433/-/resizeb/20x/e3809498-7550-410f-9.jpg
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tild3434-6437-4432-b462-663866376433\-\resizeb\20x\e3809498-7550-410f-9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3733-3732-4431-a365-313366313263/-/empty/photo.png
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tild3733-3732-4431-a365-313366313263\-\empty\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3764-3366-4133-b937-336630303838/-/resize/20x/main.jpg
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tild3764-3366-4133-b937-336630303838\-\resize\20x\main.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6162-6531-4538-b139-326136326261/logo7.png
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tild6162-6531-4538-b139-326136326261\logo7.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6431-3134-4662-b061-373466643031/-/resizeb/20x/_DSC1115.jpeg
+File Name: C:\Downloaded Web Sites\innotech-splav.com\tild6431-3134-4662-b061-373466643031\-\resizeb\20x\_DSC1115.jpeg
+Content Type: image/jpeg
+
